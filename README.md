@@ -1,5 +1,7 @@
 # devops-OKE
 
+![image](https://user-images.githubusercontent.com/22028539/132143462-71e3d8b6-b3e3-4746-b618-45fa4a9f8530.png)
+
 ## Introduction
 
 A Kubernetes cluster is a group of nodes. The nodes are the machines running applications. Each node can be a physical machine or a virtual machine. The node’s capacity (its number of CPUs and amount of memory) is defined when the node is created. A cluster comprises:
