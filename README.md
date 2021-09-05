@@ -121,6 +121,6 @@ https://rancher.com/docs/rancher/v2.x/en/cluster-provisioning/registered-cluster
 
 https://docs.oracle.com/en/learn/container_engine_kubernetes/#acknowledgements
 
-
+https://cloud-blogs.com/index.php/oracle-cloud/oracle-cloud-iaas/comprehensive-blog-on-oracle-kubernetes-engine-getting-started/01-getting-started-with-oracle-kubernetes-engine/
 
 
